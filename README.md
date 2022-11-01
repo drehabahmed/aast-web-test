@@ -2,4 +2,4 @@
 
 Learn all about Github
 
-I love :coffee: :pizza: and 🐕‍🦺:
+I love :coffee: 🍎: and 🐕‍🦺:
