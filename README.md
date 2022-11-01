@@ -1,3 +1,3 @@
 # aast-web-test
 Learn all about Github
-I love :coffee: :Pizza: and :cat:
+I love :coffee: :pizza: and :cat:
